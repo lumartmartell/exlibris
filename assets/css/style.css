@@ -1194,8 +1194,4 @@ footer {
     color: var(--bg-primary);
 }
 
-.footer__content > p {
-    font-size: 20px;
-    color: var(--text-color-secondary);
-}
 /* footer end */
